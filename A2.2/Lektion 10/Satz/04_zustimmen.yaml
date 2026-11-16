@@ -1,0 +1,17 @@
+meta:
+  source: Seite 31
+  category: zustimmen
+
+phrases:
+  - de: Ja, ich stimme dir zu.
+    en: Yes, I agree with you.
+    mastered: false
+  - de: Ich finde, du hast recht.
+    en: I think you are right.
+    mastered: false
+  - de: Ich bin deiner Meinung.
+    en: I am of your opinion.
+    mastered: false
+  - de: Ich bin dafür, weil ...
+    en: I am in favor of it because ...
+    mastered: false

@@ -1,0 +1,61 @@
+meta:
+  source: Seite 31
+  category: Nomen (die)
+  article: die
+
+words:
+  - word: Anleitung
+    article: die
+    plural: "-en"
+    en: manual
+    mastered: false
+  - word: Coachin
+    article: die
+    plural: "-nen"
+    mastered: false
+  - word: Elektronik
+    article: die
+    plural: "-en"
+    mastered: false
+  - word: Geburt
+    article: die
+    plural: "-en"
+    en: birth
+    mastered: false
+  - word: Kamera
+    article: die
+    plural: "-s"
+    mastered: false
+  - word: Laufzeit
+    article: die
+    plural: "-en"
+    en: battery life
+    mastered: false
+  - word: Messe
+    article: die
+    plural: "-n"
+    note: Technik-Messe
+    en: exhibition
+    mastered: false
+  - word: Powerbank
+    article: die
+    plural: "-s"
+    mastered: false
+  - word: Smartwatch
+    article: die
+    plural: "-es"
+    mastered: false
+  - word: Sprachsteuerung
+    article: die
+    plural: "-en"
+    en: voice control
+    mastered: false
+  - word: Unterhaltung
+    article: die
+    plural: "-en"
+    en: entertainment / conversation
+    mastered: false
+  - word: VR-Brille
+    article: die
+    plural: "-n"
+    mastered: false

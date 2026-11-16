@@ -1,0 +1,28 @@
+meta:
+  source: Seite 31
+  category: Nomen (das)
+  article: das
+
+words:
+  - word: Display
+    article: das
+    plural: "-s"
+    mastered: false
+  - word: Erlebnis
+    article: das
+    plural: "-se"
+    en: experience / event
+    mastered: false
+  - word: Gerät
+    article: das
+    plural: "-e"
+    en: device
+    mastered: false
+  - word: Ticket
+    article: das
+    plural: "-s"
+    mastered: false
+  - word: Webinar
+    article: das
+    plural: "-e"
+    mastered: false

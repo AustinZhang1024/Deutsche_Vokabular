@@ -1,0 +1,44 @@
+meta:
+  topic: Argumente pro und contra neue Technologien
+  category: pro
+
+phrases:
+  - de: Neue Technologien erleichtern das Leben.
+    en: New technologies make life easier.
+    mastered: false
+  - de: Man kann schnell Informationen finden und viel Zeit sparen.
+    en: One can find information quickly and save a lot of time.
+    mastered: false
+  - de: Man kann mit Menschen auf der ganzen Welt kommunizieren und neue Menschen kennenlernen.
+    en: One can communicate with people all over the world and get to know new people.
+    mastered: false
+  - de: Viele Menschen können von zu Hause arbeiten.
+    en: Many people can work from home.
+    mastered: false
+  - de: Man kann schnell Nachrichten schicken.
+    en: One can send messages quickly.
+    mastered: false
+  - de: Computer helfen den Menschen bei der Arbeit.
+    en: Computers help people at work.
+    mastered: false
+  - de: Roboter erledigen schwere Arbeiten.
+    en: Robots do heavy / difficult work.
+    mastered: false
+  - de: Maschinen arbeiten oft schneller als Menschen.
+    en: Machines often work faster than humans.
+    mastered: false
+  - de: "Wir können viele Dinge von zu Hause aus erledigen, z. B.: Geld online überweisen, online einkaufen."
+    en: We can do many things from home, e.g., transfer money online, shop online.
+    mastered: false
+  - de: Moderne Geräte helfen bei den Operationen und helfen kranken Menschen.
+    en: Modern devices help during operations and help sick people.
+    mastered: false
+  - de: Navigationsgeräte zeigen uns den richtigen Weg.
+    en: Navigation devices show us the right way.
+    mastered: false
+  - de: Elektroautos sind besser für die Umwelt als viele normale Autos.
+    en: Electric cars are better for the environment than many normal cars.
+    mastered: false
+  - de: "Künstliche Intelligenz (KI) hilft bei vielen Aufgaben: Z.B. Texte schreiben, Übersetzen, Antworten auf unsere Fragen geben, im Internet recherchieren."
+    en: "AI helps with many tasks: e.g., writing texts, translating, answering our questions, researching on the internet."
+    mastered: false

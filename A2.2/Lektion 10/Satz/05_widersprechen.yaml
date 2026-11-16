@@ -1,0 +1,17 @@
+meta:
+  source: Seite 31
+  category: widersprechen
+
+phrases:
+  - de: Ich sehe das anders.
+    en: I see that differently.
+    mastered: false
+  - de: Ich glaube/finde nicht, dass ...
+    en: I don't believe/think that ...
+    mastered: false
+  - de: Das stimmt nicht.
+    en: That is not true.
+    mastered: false
+  - de: Ich finde es problematisch, dass ...
+    en: I find it problematic that ...
+    mastered: false

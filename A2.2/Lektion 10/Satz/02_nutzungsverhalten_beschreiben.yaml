@@ -1,0 +1,10 @@
+meta:
+  source: Seite 31
+  category: Nutzungsverhalten beschreiben
+
+phrases:
+  - de: Was für ein Gerät ist das?
+    en: What kind of device is that?
+    mastered: false
+  - de: Das ist ein Gerät zum Navigieren / zum Schreiben von ...
+    mastered: false

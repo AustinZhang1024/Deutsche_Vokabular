@@ -1,0 +1,32 @@
+meta:
+  source: Seite 31
+  category: Nomen (der)
+  article: der
+
+words:
+  - word: Beamer
+    article: der
+    plural: "-"
+    en: projector
+    mastered: false
+  - word: Coach
+    article: der
+    plural: "-[e]s"
+    mastered: false
+  - word: Lautsprecher
+    article: der
+    plural: "-"
+    mastered: false
+  - word: Staubsauger
+    article: der
+    plural: "-"
+    en: vacuum cleaner
+    mastered: false
+  - word: Timer
+    article: der
+    plural: "-"
+    mastered: false
+  - word: Touchscreen
+    article: der
+    plural: "-s"
+    mastered: false

@@ -1,0 +1,14 @@
+meta:
+  source: Seite 31
+  category: unsicher sein
+
+phrases:
+  - de: Bist du sicher, dass ...?
+    en: Are you sure that ...?
+    mastered: false
+  - de: Glaubst du wirklich, dass ...?
+    en: Do you really believe that ...?
+    mastered: false
+  - de: Ich bin nicht sicher, ob ...
+    en: I am not sure whether / if ...
+    mastered: false

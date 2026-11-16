@@ -1,0 +1,65 @@
+meta:
+  source: Seite 31
+  category: Verben
+
+words:
+  - word: anschließen
+    separable: true
+    third_person: er/sie schließt an
+    en: to connect / to plug in
+    mastered: false
+  - word: bearbeiten
+    separable: false
+    third_person: er/sie bearbeitet
+    en: to edit / to process
+    mastered: false
+  - word: drehen
+    separable: false
+    third_person: er/sie dreht
+    en: to shoot (a video) / to turn
+    mastered: false
+  - word: falten
+    separable: false
+    third_person: er/sie faltet
+    en: to fold
+    mastered: false
+  - word: halten
+    separable: false
+    third_person: er/sie hält
+    en: to last / to hold
+    mastered: false
+  - word: navigieren
+    separable: false
+    third_person: er/sie navigiert
+    en: to navigate
+    mastered: false
+  - word: recyceln
+    separable: false
+    third_person: er/sie recycelt
+    en: to recycle
+    mastered: false
+  - word: scannen
+    separable: false
+    third_person: er/sie scannt
+    en: to scan
+    mastered: false
+  - word: staunen
+    separable: false
+    third_person: er/sie staunt
+    en: to be amazed / to marvel
+    mastered: false
+  - word: steuern
+    separable: false
+    third_person: er/sie steuert
+    en: to control / to steer
+    mastered: false
+  - word: stören
+    separable: false
+    third_person: er/sie stört
+    en: to disturb / to bother / to interfere
+    mastered: false
+  - word: vergrößern
+    separable: false
+    third_person: er/sie vergrößert
+    en: to enlarge / to zoom in
+    mastered: false
