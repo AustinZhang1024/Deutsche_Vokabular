@@ -1,0 +1,27 @@
+repos:
+  - repo: https://github.com/google/yamlfmt
+    rev: v0.21.0
+    hooks:
+      - id: yamlfmt
+        exclude: ^schemas/
+        args: ["-formatter", "type=basic,line_ending=lf"]
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: end-of-file-fixer
+        exclude: ^schemas/
+      - id: mixed-line-ending
+        args: [--fix=lf]
+        exclude: ^schemas/
+  - repo: https://github.com/adrienverge/yamllint
+    rev: v1.38.0
+    hooks:
+      - id: yamllint
+        exclude: ^schemas/
+        args: ["-d", "{extends: default, rules: {document-start: disable, line-length: disable}}"]
+  - repo: https://github.com/python-jsonschema/check-jsonschema
+    rev: 0.39.0
+    hooks:
+      - id: check-jsonschema
+        exclude: ^(\.pre-commit-config\.yaml|schemas/)
+        args: ["--schemafile", "schemas/german-vocab.schema.yaml"]
