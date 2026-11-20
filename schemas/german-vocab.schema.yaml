@@ -61,15 +61,11 @@
                     "items":
                       {
                         "type": "object",
-                        "required": ["word", "en"],
+                        "required": ["word"],
                         "additionalProperties": false,
                         "properties":
                           {
-                            "word":
-                              {
-                                "type": "string",
-                                "pattern": "^(der|die|das)\\s+[A-ZÄÖÜ][a-zA-Zäöüß-]+,\\s*(-|-[a-zäöüß\\[\\]]+)$",
-                              },
+                            "word": { "type": "string" },
                             "en": { "type": "string", "minLength": 1 },
                           },
                       },
@@ -100,22 +96,11 @@
                     "items":
                       {
                         "type": "object",
-                        "required":
-                          [
-                            "word",
-                            "separable",
-                            "third_person",
-                            "en",
-                            "mastered",
-                          ],
+                        "required": ["word", "mastered"],
                         "additionalProperties": false,
                         "properties":
                           {
-                            "word":
-                              { "type": "string", "pattern": "^[a-zäöüß]+$" },
-                            "separable": { "type": "boolean" },
-                            "third_person":
-                              { "type": "string", "pattern": "^er/sie\\s+.+$" },
+                            "word": { "type": "string" },
                             "en": { "type": "string", "minLength": 1 },
                             "mastered": { "type": "boolean" },
                           },
